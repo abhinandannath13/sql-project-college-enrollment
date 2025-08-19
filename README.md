@@ -1,4 +1,4 @@
-**College Analytics Insights**
+# College Enrollment
 
 This project provides an SQL-based data pipeline that tracks and reports student enrollments, churns, verifications, and KYC status across academic years. The goal is to help stakeholders (college admins, operations, and management) monitor new student enrollments, identify churned/forfeited students, and ensure smooth onboarding processes.
 
